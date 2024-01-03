@@ -1,5 +1,5 @@
 # Junior Software Tester 
-####Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub
+#### Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub
 ## Work Experience
 **Junior System Tester @Continental Automative Group**
 - established the very first virtual testing entity (vECU) in cooperation with a team of newbies
@@ -28,7 +28,7 @@ includes collective races to evaluate the robot's speed, efficiency and strength
 
 
 ## Personal Projects 
-###Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python - [as yet UNLISTED]
+### Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python - [as yet UNLISTED]
 
 I used Dijkstra’s Algorithm to establish a timing hierarchy an optimize pathfinding in GTA San Andreas. The
 purpose was not only to avoid the routes with obstacles such as traffic jams or harsh roads but also to
@@ -46,7 +46,7 @@ hierarchy.
 
 ![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/75735e74-01ef-4041-999e-3c4969bc7043)
 
-###Fibonacci algorithm for predicting the degree in which unfinished tasks undermine team’s productivity – Agile Paradigm – C++ - [as yet UNLISTED]
+### Fibonacci algorithm for predicting the degree in which unfinished tasks undermine team’s productivity – Agile Paradigm – C++ - [as yet UNLISTED]
 
 In order to generate a graphic representation of the variation of team’s productivity I implemented a
 Fibonacci based algorithm which determined how regularly missing deadlines will undermine the team’s
@@ -61,7 +61,7 @@ sprint will be affected by the first one, mainly influencing the team capacity.
 1 - how much time the team has available within the sprint to complete high-quality work; 2 - a dedicated period of time in which a set amount of work will be
 completed on a project
 
-###Min Priority QUEUE - using Python - [as yet UNLISTED]
+### Min Priority QUEUE - using Python - [as yet UNLISTED]
 
 Probably, one of the most common data structures I dealt with implementing a Min Priority
 Queue – using Python – in the attempt to create a coordinator network which could effectively
