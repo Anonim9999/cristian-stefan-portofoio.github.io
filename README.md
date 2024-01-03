@@ -1,20 +1,19 @@
 # Junior Software Tester 
 Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub
 ### Work Experience
-#1. Junior System Tester @Continental Automative Group
- # Project Name: ZCU - Zone Controller Unit 2025
+**Junior System Tester @Continental Automative Group**
 - established the very first virtual testing entity (vECU) in cooperation with a team of newbies
 - sucesfully harnesing the testing equipment resources as software labels and functions
 - solve out over 68 bugs
 - redesign and fixed up to 20 measurement software functions
   
-#2. Summer internship  @VNI(Vehicle netowrking) Departament Intern Continental AG
+**Summer internship  @VNI(Vehicle netowrking) Departament Intern Continental AG**
 - acquiring knoweldge in software and hardware architecutre
 - learning the ropes of debugging
 - learning the fundamentals of Python and CAPL
 - hands on experience with basis testing procedures (rooting and flashing)
 
-#3. Participant Cyber Tech Tournament, Sibiu(România)
+**Participant Cyber Tech Tournament, Sibiu(România)**
 - fully developed from scratch the hardware and software architectures of a line-follower robot
 - reacehd the semi-finals phase
 
@@ -23,9 +22,10 @@ finals), aims to assist participants in developing various models of robots. The
 like line followers or maze solvers to more sophisticated ones, such as cargo-carrying robots. The competition also
 includes collective races to evaluate the robot's speed, efficiency and strength.*
 
-## Education
-- Mechatronics and Robotics Engineer @University of ”Lucian Blaga” in Sibiu | Faculty of Engineering - 2018/2021 - **Finished**
-- Artificial Intelligence and Engineering Systems Master Program | Eindhoven University of Technology - 2022 - 2024 - **Expected**
+### Education
+- B.S, R.I.S. - Robotics and Intelligent Systems| The University of Lucian Blaga - 2018/2021
+- M.S, Artificial Intelligence and Engineering Systems  | Eindhoven University of Technology - **2022 - On going**
+
 
 ### Personal Projects 
 **Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python** - [as yet UNLISTED]
@@ -43,6 +43,7 @@ each segment the algorithm was also capable to deliver a hierarchy which ranks e
 routes from the shortest one to the longest. Hence, additionally I implemented a time monitoring algorithm
 which had two roles: identifying when a new time lapse arises and finding its specific position into
 hierarchy.
+
 ![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/75735e74-01ef-4041-999e-3c4969bc7043)
 
 **Fibonacci algorithm for predicting the degree in which unfinished tasks undermine
@@ -73,6 +74,7 @@ priority 1); LIN:2; CAN:3; CAN FD:4; FlexRay:5; where: 1 is the protocol with th
 and 5 the protocol with the lowest priority) and other additional exception – after a specific period
 in which a message was not sent it might be necessary to change its key level from higher to
 lower due to the system’s behaviour (e.g. DecreaseKey Op, Extract Min Op).
+
 ![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/9a432c72-4eeb-4d1c-95c6-8a6a199f7415)
 
 ### Future pursuits   
