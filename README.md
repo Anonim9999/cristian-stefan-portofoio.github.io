@@ -76,5 +76,5 @@ lower due to the system’s behaviour (e.g. DecreaseKey Op, Extract Min Op).
 
 ![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/9a432c72-4eeb-4d1c-95c6-8a6a199f7415)
 
-### Future pursuits   
+
   
