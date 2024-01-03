@@ -11,11 +11,13 @@ This corner does contain some of my active-projects as well as several future id
 - sucesfully harnesing the testing equipment resources as software labels and functions
 - solve out over 68 bugs
 - redesign and fixed up to 20 measurement software functions
+  
 2.Summer internship  @VNI(Vehicle netowrking) Departament Intern Continental AG
 - acquiring knoweldge in software and hardware architecutre
 - learning the ropes of debugging
 - learning the fundamentals of Python and CAPL
 - hands on experience with basis testing procedures (rooting and flashing)
+  
 3. Participant Cyber Tech Tournament, Sibiu(România)
 - fully developed from scratch the hardware and software architectures of a line-follower robot
 - reacehd the semi-finals phase
