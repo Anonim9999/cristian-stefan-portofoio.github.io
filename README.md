@@ -76,5 +76,11 @@ lower due to the system’s behaviour (e.g. DecreaseKey Op, Extract Min Op).
 
 ![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/9a432c72-4eeb-4d1c-95c6-8a6a199f7415)
 
+### Developed the ForPespective Web Page - [as yet UNLISTED]
+Along with one of my closest friends, we entirely designed, developed, and synchronized the front and back ends of this website. Setting aside the visual aesthetic aspect this site exhibits through both the palette of colors we carefully constructed and the arborescent manner in which labels, pictures, sections, and articles were arranged, the functional component also represents a point of interest: in theory, any user could effortlessly interact with the website by using dedicated sections to pencil comments, send direct messages via the integrated Messenger Window or show his/her appreciation by purchasing a course or reaching out to the owner in a private and personal way [...]
+
+Personally, in order to effectively tackle the spectrum of tasks I was entrusted with, several of the following web-design-based tools were used: JAVA, HTML, CSS, WordPress, Photoshop, and even Python for establishing the bridge between interface and back-end processes. The project's outcome utterly fulfilled the technical expectations, both visually and functionally. The work we invested in this endeavor did take up to 2 months due to the supportive-friendly interface we interacted with (Wordpress). Not to mention that the experience I acquired through my faculty years played a vital role as it equipped me with the necessary grasp. 
+
+Check it out: https://forperspective.ro/
 
   
