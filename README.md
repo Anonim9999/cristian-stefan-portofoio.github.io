@@ -28,7 +28,7 @@ includes collective races to evaluate the robot's speed, efficiency and strength
 
 
 ## Personal Projects 
-### Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python - [as yet UNLISTED]
+-Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python - [as yet UNLISTED]
 
 **Summarizing**:
 I applied Dijkstra’s Algorithm to establish a timing hierarchy and optimize pathfinding in GTA San Andreas. 
@@ -97,5 +97,5 @@ Personally, in order to effectively tackle the spectrum of tasks I was entrusted
 **Outcome**:
 Check it out [here](https://forperspective.ro/)
 
-<h2>I am a robot</h2>
+    <h2>I am a robot</h2>
   
