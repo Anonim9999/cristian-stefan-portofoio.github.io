@@ -30,19 +30,19 @@ includes collective races to evaluate the robot's speed, efficiency and strength
 ## Personal Projects 
 ### Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python - [as yet UNLISTED]
 
-**Summarizing**
+**Summarizing**:
 I applied Dijkstra’s Algorithm to establish a timing hierarchy and optimize pathfinding in GTA San Andreas. 
 
-**Objective**
-*The goal was not only to avoid the routes with obstacles like traffic jams or harsh roads but also to
+**Objective**:
+The goal was not only to avoid the routes with obstacles like traffic jams or harsh roads but also to
 examine how different means of transportation significantly impact the traveling time. For 
 instances, the Dijkstra’s Algorithm I implemented was slightly modified to consider just the very first three transportation options displayed and their estimative time-costs (e.g.,
 train – 5 hours; aeroplane – 2 hours; by foot – 7 hours; obstacle – 5 hours) as possible methods of
 traveling from the given starting vertex to the next one (n vertices) when determining the routes constituents. Hence, the constituents (e.g. one airoplane - 5 walks by foot - one train) will dictate the traveling time each route has.
 *Routes could involve either a mix of transportation entities or a single unit.
 
-**Outcome**
-*Besides calculating the shortest path by considering the spent-time each means of transportation has on a given segment, the algorithm was also capable to deliver a hierarchy that ranks every combination of
+**Outcome**:
+Besides calculating the shortest path by considering the spent-time each means of transportation has on a given segment, the algorithm was also capable to deliver a hierarchy that ranks every combination of
 routes from the shortest one to the longest.
 *Hence, additionally I implemented a time monitoring algorithm which had two roles: identifying when a new time lapse arises and finding its specific position into
 hierarchy.
