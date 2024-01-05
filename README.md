@@ -1,7 +1,3 @@
-<html>
-  <<link = "stylesheets" href = "stylesheets/style.css>
-</html>
-
 # Junior Software Tester 
 #### Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub
 ## Work Experience
