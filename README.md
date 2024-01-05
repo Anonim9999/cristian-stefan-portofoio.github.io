@@ -78,6 +78,7 @@ Furthermore, the priority queue’s design relied on a regular Binary Heap.
 
 <img src = "sheetstyles/Message Classification.png" align = left> 
 
+
 **Objective**:
 A difficult quest of this assignment concerned the spectrum of rules/constraints which were supposed to be
 implemented as priority laws in conformity with Protocol’s transportation standard (Ethernet:
