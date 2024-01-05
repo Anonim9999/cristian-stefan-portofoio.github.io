@@ -1,7 +1,5 @@
 <html>
-  <head>
-  <link = "stylesheets" href = "stylesheets/style.css>
-  </head>
+  <<link = "stylesheets" href = "stylesheets/style.css>
 </html>
 
 # Junior Software Tester 
