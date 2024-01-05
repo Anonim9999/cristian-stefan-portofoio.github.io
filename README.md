@@ -76,9 +76,8 @@ Queue – using Python – attempting to create a coordinator network which coul
 handle incoming messages by prioritizing its “ranking levels” – generally key levels ranging from 1 to 5.
 Furthermore, the priority queue’s design relied on a regular Binary Heap. 
 
-  ![Sal](/sheetstyles/Message Classification.png)
-  <img src = "sheetstyles/Message Classification.png" alt="MessageClassification" align = center> 
-
+  <img src = "sheetstyles/Message Classification.png" alt="MessageClassification" align = right> 
+  
 **Objective**:
 A difficult quest of this assignment concerned the spectrum of rules/constraints which were supposed to be
 implemented as priority laws in conformity with Protocol’s transportation standard (Ethernet:
@@ -87,7 +86,9 @@ and 5 the protocol with the lowest priority) and other additional exception – 
 in which a message was not sent it might be necessary to change its key level from higher to
 lower due to the system’s behaviour (e.g. DecreaseKey Op, Extract Min Op).
 
-![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/9a432c72-4eeb-4d1c-95c6-8a6a199f7415)
+   ![The way in which the car's computer bord flags inconvenient occurences ](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/02eb2eef-7689-42e8-b8c9-79fc64501839)
+
+![Binary vs Line-type Queue ](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/4533bd48-268d-4e79-a089-81345d14ab32)
 
 ### Developed the ForPespective Website - [as yet UNLISTED]
 
@@ -98,6 +99,6 @@ Along with one of my closest friends, we entirely designed, developed, and synch
 Personally, in order to effectively tackle the spectrum of tasks I was entrusted with, several of the following web-design-based tools were used: JAVA, HTML, CSS, WordPress, Photoshop, and even Python for establishing the bridge between interface and back-end processes. The project's outcome utterly fulfilled the technical expectations, both visually and functionally. The work we invested in this endeavor did take up to 2 months due to the supportive-friendly interface we interacted with (Wordpress). Not to mention that the experience I acquired through my faculty years played a vital role as it equipped me with the necessary grasp. 
 
 **Outcome**:
-Check it out [here](https://forperspective.ro/)
+Check it out [here](https://forperspective.ro/)!
 
     <h2>I am a robot</h2>
