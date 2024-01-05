@@ -1,5 +1,5 @@
 <html>
-  <head></head>
+  <head>
   <link = "stylesheets" href = "stylesheets/style.css>
   </head>
 </html>
