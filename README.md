@@ -30,21 +30,24 @@ includes collective races to evaluate the robot's speed, efficiency and strength
 ## Personal Projects 
 ### Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python - [as yet UNLISTED]
 
-I used Dijkstra’s Algorithm to establish a timing hierarchy an optimize pathfinding in GTA San Andreas. The
-purpose was not only to avoid the routes with obstacles such as traffic jams or harsh roads but also to
-examine how different modes of transportation significantly impact the spectrum of timeframes. For the
-instances, the Dijkstra’s Algorithm I implemented was slightly modified to factor in three variations (e.g.,
+**Summarizing**
+I applied Dijkstra’s Algorithm to establish a timing hierarchy and optimize pathfinding in GTA San Andreas. 
+
+**Objective**
+*The goal was not only to avoid the routes with obstacles like traffic jams or harsh roads but also to
+examine how different means of transportation significantly impact the traveling time. For 
+instances, the Dijkstra’s Algorithm I implemented was slightly modified to consider just the very first three transportation options displayed and their estimative time-costs (e.g.,
 train – 5 hours; aeroplane – 2 hours; by foot – 7 hours; obstacle – 5 hours) as possible methods of
-traveling from the given starting vertex to other one (n locations), whose lapse of time could vary
-depending on the route’s constituents. Therefore, a route may be based on a mix of transportations
-entities – aeroplane, train, by foot – or a single unit – e.g., travelling just by the plane. Besides calculating
-the shortest path by carefully considering the traveling time spent with every means of transportation for
-each segment the algorithm was also capable to deliver a hierarchy which ranks every combination of
-routes from the shortest one to the longest. Hence, additionally I implemented a time monitoring algorithm
-which had two roles: identifying when a new time lapse arises and finding its specific position into
+traveling from the given starting vertex to the next one (n vertices) when determining the routes constituents. Hence, the constituents (e.g. one airoplane - 5 walks by foot - one train) will dictate the traveling time each route has.
+*Routes could involve either a mix of transportation entities or a single unit.
+
+**Outcome**
+*Besides calculating the shortest path by considering the spent-time each means of transportation has on a given segment, the algorithm was also capable to deliver a hierarchy that ranks every combination of
+routes from the shortest one to the longest.
+*Hence, additionally I implemented a time monitoring algorithm which had two roles: identifying when a new time lapse arises and finding its specific position into
 hierarchy.
 
-![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/75735e74-01ef-4041-999e-3c4969bc7043)
+![San Andreas Modified Map](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/a73298ce-c58e-4f54-a124-60d9b9184554)
 
 ### Fibonacci algorithm for predicting the degree in which unfinished tasks undermine team’s productivity – Agile Paradigm – C++ - [as yet UNLISTED]
 
