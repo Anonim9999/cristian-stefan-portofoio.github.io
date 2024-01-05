@@ -1,4 +1,7 @@
-<link = "stylesheets" href = "stylesheets/style.css>
+<html>
+  <head></head>
+  <link = "stylesheets" href = "stylesheets/style.css>
+  </head>
 
 # Junior Software Tester 
 #### Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub
@@ -103,4 +106,4 @@ Personally, in order to effectively tackle the spectrum of tasks I was entrusted
 Check it out [here](https://forperspective.ro/)
 
     <h2>I am a robot</h2>
-  
+</html>
