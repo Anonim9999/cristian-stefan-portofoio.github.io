@@ -76,9 +76,10 @@ Queue – using Python – attempting to create a coordinator network which coul
 handle incoming messages by prioritizing its “ranking levels” – generally key levels ranging from 1 to 5.
 Furthermore, the priority queue’s design relied on a regular Binary Heap. 
 
-<img src = "sheetstyles/Message Classification.png" align = left> 
 <p>
+  <img src = "sheetstyles/Message Classification.png" align = center> 
 </p>
+
 **Objective**:
 A difficult quest of this assignment concerned the spectrum of rules/constraints which were supposed to be
 implemented as priority laws in conformity with Protocol’s transportation standard (Ethernet:
