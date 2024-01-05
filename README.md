@@ -1,3 +1,5 @@
+<link = "stylesheets" href = "stylesheets/style.css>
+
 # Junior Software Tester 
 #### Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub
 ## Work Experience
@@ -28,7 +30,7 @@ includes collective races to evaluate the robot's speed, efficiency and strength
 
 
 ## Personal Projects 
--Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python - [as yet UNLISTED]
+- Dijkstra and Time Monitoring algorithms for establishing a timing hierarchy – Pathfinding – Python - [as yet UNLISTED]
 
 **Summarizing**:
 I applied Dijkstra’s Algorithm to establish a timing hierarchy and optimize pathfinding in GTA San Andreas. 
@@ -49,7 +51,7 @@ hierarchy.
 
 ![San Andreas Modified Map](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/a73298ce-c58e-4f54-a124-60d9b9184554)
 
-### Fibonacci algorithm for predicting the degree in which unfinished tasks undermine team’s productivity – Agile Paradigm – C++ - [as yet UNLISTED]
+- Fibonacci algorithm for predicting the degree in which unfinished tasks undermine team’s productivity – Agile Paradigm – C++ - [as yet UNLISTED]
 
 **Summarizing**:
 In order to generate a graphic representation that might ilustratively depict the degree of productivity the team I made part of had at certain points 
@@ -68,7 +70,7 @@ sprint will be affected by the first one, mainly influencing the team capacity a
 *2 - a dedicated period of time in which a set amount of work will be
 completed on a project;*
 
-### Min Priority QUEUE - using Python - [as yet UNLISTED]
+- Min Priority QUEUE - using Python - [as yet UNLISTED]
 
 **Summarizing**:
 Probably, one of the most common data structures I dealt with was implementing a Min Priority
@@ -89,7 +91,7 @@ lower due to the system’s behaviour (e.g. DecreaseKey Op, Extract Min Op).
 
 ![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/9a432c72-4eeb-4d1c-95c6-8a6a199f7415)
 
-### Developed the ForPespective Website - [as yet UNLISTED]
+- Developed the ForPespective Website - [as yet UNLISTED]
 
 **Summarizing**:
 Along with one of my closest friends, we entirely designed, developed, and synchronized the front and back ends of this website. Setting aside the visual aesthetic aspect this site exhibits through both the palette of colors we carefully constructed and the arborescent manner in which labels, pictures, sections, and articles were arranged, the functional component also represents a point of interest: in theory, any user could effortlessly interact with the website by using dedicated sections to pencil comments, send direct messages via the integrated Messenger Window or show his/her appreciation by purchasing a course or reaching out to the owner in a private and personal way [...]
