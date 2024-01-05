@@ -76,6 +76,7 @@ Queue – using Python – attempting to create a coordinator network which coul
 handle incoming messages by prioritizing its “ranking levels” – generally key levels ranging from 1 to 5.
 Furthermore, the priority queue’s design relied on a regular Binary Heap. 
 
+  ![Sal](/sheetstyles/Message Classification.png)
   <img src = "sheetstyles/Message Classification.png" alt="MessageClassification" align = center> 
 
 **Objective**:
