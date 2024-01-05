@@ -95,6 +95,7 @@ Along with one of my closest friends, we entirely designed, developed, and synch
 Personally, in order to effectively tackle the spectrum of tasks I was entrusted with, several of the following web-design-based tools were used: JAVA, HTML, CSS, WordPress, Photoshop, and even Python for establishing the bridge between interface and back-end processes. The project's outcome utterly fulfilled the technical expectations, both visually and functionally. The work we invested in this endeavor did take up to 2 months due to the supportive-friendly interface we interacted with (Wordpress). Not to mention that the experience I acquired through my faculty years played a vital role as it equipped me with the necessary grasp. 
 
 **Outcome**:
-Check it out: https://forperspective.ro/
+Check it out [here](https://forperspective.ro/)
 
+<h2>I am a robot</h2>
   
