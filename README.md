@@ -101,4 +101,3 @@ Personally, in order to effectively tackle the spectrum of tasks I was entrusted
 **Outcome**:
 Check it out [here](https://forperspective.ro/)!
 
-    <h2>I am a robot</h2>
