@@ -1,11 +1,10 @@
 # Junior Software Tester 
-#### Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub
+#### Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub, ANSYS 2002
 ## Work Experience
 **Junior System Tester @Continental Automative Group**
-- established the very first virtual testing entity (vECU) in cooperation with a team of newbies
-- successfully harnessed the testing equipment resources - which consisted off a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment.
-- solve out over 68 bugs
-- redesigned and fixed up to 20 measurement software functions
+- spearheaded the development of a simulated electronic control unit exclusively designed for testing purposes alongside with a team of students | unlocked the opportunity to explore and exploit a new testing dimension  
+- successfully harnessed the testing equipment resources - which consisted off a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment | intensively stressing the system performance until its breaking point in order to discover unseeable malfunctions; discovered and solve out over 68 software-related bottlenecks (e.g. bugs)  
+- redesigned and fixed up to 20 measurement software functions - TO BE MODIFIED 
   
 **Summer internship  @VNI(Vehicle netowrking) Departament Intern Continental AG**
 - acquiring knoweldge in software and hardware architecutre
