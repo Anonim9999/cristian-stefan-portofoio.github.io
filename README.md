@@ -3,14 +3,15 @@
 ## Work Experience
 **Junior System Tester @Continental Automative Group**
 
-- **DID** spearheaded the development of a simulated electronic control unit exclusively designed for testing purposes alongside with a team of students | **RESULT** unlocked the opportunity to explore and exploit a new testing dimension  
-- **DID** successfully harnessed the testing equipment resources - which consisted off a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment |**RESULT** intensively stressing the system performance until its breaking point in order to discover unseeable malfunctions; discovered and solve out over 68 software-related bottlenecks (e.g. bugs)  
-- **DID** issued various fixes I effectuated to non-functional software parts (60+) | **RESULT** speeded technical know-how amongst my peers and other teams  
+- **DID** - spearheaded the development of a simulated electronic control unit exclusively designed for testing purposes alongside with a team of students | **RESULT** - unlocked the opportunity to explore and exploit a new testing dimension  
+- **DID** - successfully harnessed the testing equipment resources - whose internal structure contained a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment |**RESULT** - intensively stressing the system performance until its breaking point in order to discover unseeable malfunctions; discovered and solve out over 68 software-related bottlenecks (e.g. bugs)  
+- **DID** - issued various fixes I effectuated to non-functional software parts (60+) | **RESULT** - speeded technical know-how amongst my peers and other teams  
   
 **Summer internship  @VNI(Vehicle netowrking) Departament Intern Continental AG**
-- acquiring knoweldge in software and hardware architecutre
-- learnt the ropes of debugging
-- learnt the fundamentals of Python and CAPL
+- **DID** - Executed rigorous hardware testing protocols to evaluate electromagnetic solenoid valves' feasibility, laboriously scrutinizing test results against Q.S. quality standards |**RESULTS** - resulting in enhanced product reliability and reduced manufacturing defects by 20%;
+- **DID** -  Built a solid grasp in software testing procedures and its related spectrum of tools (LabView, MatLab, VECTOR Canoe, CAPL Browser) by attending hands-on courses and carry out individual assignments | **RESULTS** - enhanced product reliability and reduced manufacturing defects by 20%
+- **DID** - Cultivated my grasp in software testing by getting exposure to its related spectrum of tools (LabView, MatLab, VECTOR
+Canoe, CAPL Browser) and practical experience | **RESULTS** - Established interfaces and control scripts for various car seats
 - gained hands on experience with basis testing procedures (rooting and flashing)
 
 **Participant Cyber Tech Tournament, Sibiu(România)**
