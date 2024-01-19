@@ -8,15 +8,17 @@
 - **DID** - issued various fixes I effectuated to non-functional software parts (60+) | **RESULT** - speeded technical know-how amongst my peers and other teams  
   
 **Summer internship  @VNI(Vehicle netowrking) Departament Intern Continental AG**
-- **DID** - Executed rigorous hardware testing protocols to evaluate electromagnetic solenoid valves' feasibility, laboriously scrutinizing test results against Q.S. quality standards |**RESULTS** - resulting in enhanced product reliability and reduced manufacturing defects by 20%;
-- **DID** -  Built a solid grasp in software testing procedures and its related spectrum of tools (LabView, MatLab, VECTOR Canoe, CAPL Browser) by attending hands-on courses and carry out individual assignments | **RESULTS** - enhanced product reliability and reduced manufacturing defects by 20%
+- **DID** - Executed rigorous hardware testing protocols to evaluate electromagnetic solenoid valves' feasibility, laboriously scrutinizing test results against Q.S. quality standards |**IMPACT** - resulting in enhanced product reliability and reduced manufacturing defects by 20%;
+- **DID** -  Built a solid grasp in software testing procedures and its related spectrum of tools (LabView, MatLab, VECTOR Canoe, CAPL Browser) by attending hands-on courses and carry out individual assignments | **IMPACT** - enhanced product reliability and reduced manufacturing defects by 20%
 - **DID** - Cultivated my grasp in software testing by getting exposure to its related spectrum of tools (LabView, MatLab, VECTOR
-Canoe, CAPL Browser) and practical experience | **RESULTS** - Established interfaces and control scripts for various car seats
-- gained hands on experience with basis testing procedures (rooting and flashing)
+Canoe, CAPL Browser) and practical experience | **IMPACT** - Established interfaces and control scripts for various car seats
+- **DID** - Coined, organized and conducted a student internal manifest event at its first edition(so-called #InternsTalk) striving to tighten the communication channel between the newcomers and leading board | **IMPACT** - The fortunate occurrence earn its place in the Continental's social climate as it gathered over 120 employee and stirred up multiple feedbacks evoked by both sides (leading and students).
+
 
 **Participant Cyber Tech Tournament, Sibiu(România)**
-- fully developed from scratch the hardware and software architectures of a line-follower robot
+- fully developed the hardware, mechanical and software architectures of a line-follower robot
 - reacehd the semi-finals phase
+- ![Follower#1](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/0f1a025e-c736-40db-9bdd-b4cd5b0924aa)
 
 Summary: *An exclusive competition for students in robotics, consisting of three stages (qualifiers, semifinals and
 finals), aims to assist participants in developing various models of robots. These robots can range from simpler designs
@@ -24,7 +26,7 @@ like line followers or maze solvers to more sophisticated ones, such as cargo-ca
 includes collective races to evaluate the robot's speed, efficiency and strength.*
 
 ## Education
-- B.S, R.I.S. - Robotics and Intelligent Systems| The University of Lucian Blaga - 2018/2021
+- B.S, R.I.S. - Robotics and Intelligent Systems | The University of Lucian Blaga - 2018/2021
 - M.S, Artificial Intelligence and Engineering Systems  | Eindhoven University of Technology - **2022 - On going**
 
 ## Bachelor Thesis Project
