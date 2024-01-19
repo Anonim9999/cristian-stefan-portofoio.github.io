@@ -3,22 +3,21 @@
 ## Work Experience
 **Junior System Tester @Continental Automative Group**
 
-- **DID** - spearheaded the development of a simulated electronic control unit exclusively designed for testing purposes alongside with a team of students | **RESULT** - unlocked the opportunity to explore and exploit a new testing dimension  
-- **DID** - successfully harnessed the testing equipment resources - whose internal structure contained a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment |**RESULT** - intensively stressing the system performance until its breaking point in order to discover unseeable malfunctions; discovered and solve out over 68 software-related bottlenecks (e.g. bugs)  
-- **DID** - issued various fixes I effectuated to non-functional software parts (60+) | **RESULT** - speeded technical know-how amongst my peers and other teams  
+- **DID** - spearheaded the development of a simulated electronic control unit exclusively designed for testing purposes alongside with a team of students | **IMPACT** - unlocked the opportunity to explore and exploit a new testing dimension  
+- **DID** - successfully harnessed the testing equipment resources - whose internal structure contained a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment | **IMPACT** - intensively stressing the system performance until its breaking point in order to discover unseeable malfunctions; discovered and solve out over 68 software-related bottlenecks (e.g. bugs)  
+- **DID** - issued various fixes I effectuated to non-functional software parts (60+) | **IMPACT** - speeded technical know-how amongst my peers and other teams  
   
 **Summer internship  @VNI(Vehicle netowrking) Departament Intern Continental AG**
-- **DID** - Executed rigorous hardware testing protocols to evaluate electromagnetic solenoid valves' feasibility, laboriously scrutinizing test results against Q.S. quality standards |**IMPACT** - resulting in enhanced product reliability and reduced manufacturing defects by 20%;
+- **DID** - Executed rigorous hardware testing protocols to evaluate electromagnetic solenoid valves' feasibility, laboriously scrutinizing test results against Q.S. quality standards | **IMPACT** - resulting in enhanced product reliability and reduced manufacturing defects by 20%;
 - **DID** -  Built a solid grasp in software testing procedures and its related spectrum of tools (LabView, MatLab, VECTOR Canoe, CAPL Browser) by attending hands-on courses and carry out individual assignments | **IMPACT** - enhanced product reliability and reduced manufacturing defects by 20%
 - **DID** - Cultivated my grasp in software testing by getting exposure to its related spectrum of tools (LabView, MatLab, VECTOR
 Canoe, CAPL Browser) and practical experience | **IMPACT** - Established interfaces and control scripts for various car seats
 - **DID** - Coined, organized and conducted a student internal manifest event at its first edition(so-called #InternsTalk) striving to tighten the communication channel between the newcomers and leading board | **IMPACT** - The fortunate occurrence earn its place in the Continental's social climate as it gathered over 120 employee and stirred up multiple feedbacks evoked by both sides (leading and students).
 
-
 **Participant Cyber Tech Tournament, Sibiu(România)**
 - fully developed the hardware, mechanical and software architectures of a line-follower robot
 - reacehd the semi-finals phase
-- ![Follower#1](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/0f1a025e-c736-40db-9bdd-b4cd5b0924aa)
+![Follower#1](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/0f1a025e-c736-40db-9bdd-b4cd5b0924aa)
 
 Summary: *An exclusive competition for students in robotics, consisting of three stages (qualifiers, semifinals and
 finals), aims to assist participants in developing various models of robots. These robots can range from simpler designs
