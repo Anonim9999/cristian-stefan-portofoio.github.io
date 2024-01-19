@@ -3,7 +3,7 @@
 ## Work Experience
 **Junior System Tester @Continental Automative Group**
 - established the very first virtual testing entity (vECU) in cooperation with a team of newbies
-- sucesfully harnessed the testing equipment resources as software labels and functions
+- successfully harnessed the testing equipment resources - which consisted off a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment.
 - solve out over 68 bugs
 - redesigned and fixed up to 20 measurement software functions
   
@@ -25,6 +25,24 @@ includes collective races to evaluate the robot's speed, efficiency and strength
 ## Education
 - B.S, R.I.S. - Robotics and Intelligent Systems| The University of Lucian Blaga - 2018/2021
 - M.S, Artificial Intelligence and Engineering Systems  | Eindhoven University of Technology - **2022 - On going**
+
+## Bachelor Thesis Project
+### The Mobile Robotic Platform for exploration and rescue operations, equipped with hexapod locomotion and remote control - [partially listed]
+
+**Sumarizing**
+The project was carried-out over a period of 6 months, aiming to build an efficient and stable hexapod robot for rescue operations.
+
+**Objective**
+The robot is designed for recognizing and transmitting specific details found in various surroundings – caves, narrow /inaccessible spaces, etc. – with the purpose to undertake 360º environmental scans and analyze important parameters – atmospheric pressure, inflammable gases, temperature, etc. – and determine whether that place is safe or not.
+
+**Outcome**
+This thesis paper elaborates the subject of a hexapod model, whose locomotor system incorporates 6 legs – termed as hexapod locomotion – and it could be remotely controlled via a
+joystick. Furthermore, the robot’s fundamental measurement and determination capabilities (6 sensors) rely on an assembly of sensors wired to a master board whose script is also capable to
+establish a firm synchronization between the inputs (user’s commands or environmental data) and outputs (18 kinematic joints). The content consists of two major parts (research/experimental sections) which contain descriptions and technical explanations, such as: dynamic and cinematic simulations, software testing, debugging and code adjustment, embedded testing.
+The thesis’s outcome – labelled as The Mobile Robotic Platform for exploration and rescue operations, with hexapod locomotion and remote control1 – consists on a materialized model of hexapod, which meets all the requirements, being fully operational
+
+![image](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/24cd734c-8b4b-4474-9563-9a38051641c0)
+
 
 
 ## Personal Projects 
