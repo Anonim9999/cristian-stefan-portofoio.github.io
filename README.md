@@ -17,6 +17,7 @@ Canoe, CAPL Browser) and practical experience | **IMPACT** - Established interfa
 **Participant Cyber Tech Tournament, Sibiu(România)**
 - fully developed the hardware, mechanical and software architectures of a line-follower robot
 - reacehd the semi-finals phase
+
 ![Follower#1](https://github.com/Anonim9999/cristian-stefan-portofoio.github.io/assets/117277435/0f1a025e-c736-40db-9bdd-b4cd5b0924aa)
 
 Summary: *An exclusive competition for students in robotics, consisting of three stages (qualifiers, semifinals and
