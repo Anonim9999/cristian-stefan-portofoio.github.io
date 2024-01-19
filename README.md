@@ -2,10 +2,9 @@
 #### Technical Skills: Python, C++, MATLAB - Simulink, CAPL, HTML, CSS, Java, Arduino, GitHub, ANSYS 2002
 ## Work Experience
 **Junior System Tester @Continental Automative Group**
-*spearheaded the development of a simulated electronic control unit exclusively designed for testing purposes alongside with a team of students | unlocked the opportunity to explore and exploit a new testing dimension  
-*successfully harnessed the testing equipment resources - which consisted off a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment | *intensively stressing the system performance until its breaking point in order to discover unseeable malfunctions; discovered and solve out over 68 software-related bottlenecks (e.g. bugs)  
-*issued various fixes  
-*issued various fixes I effectuated to non-functional software parts (60+) | speeded technical know-how amongst my peers and other teams  
+-spearheaded the development of a simulated electronic control unit exclusively designed for testing purposes alongside with a team of students | unlocked the opportunity to explore and exploit a new testing dimension  
+-successfully harnessed the testing equipment resources - which consisted off a tremendous amount of relays (at least 500) - as utilities the software component could access and control at any given time or moment | intensively stressing the system performance until its breaking point in order to discover unseeable malfunctions; discovered and solve out over 68 software-related bottlenecks (e.g. bugs)  
+-issued various fixes I effectuated to non-functional software parts (60+) | speeded technical know-how amongst my peers and other teams  
   
 **Summer internship  @VNI(Vehicle netowrking) Departament Intern Continental AG**
 - acquiring knoweldge in software and hardware architecutre
